@@ -1,14 +1,14 @@
 {
  "format": "korajin-snapshot",
  "v": 1,
- "build": "m4984",
+ "build": "m5039",
  "zone": "meadow",
- "at": "2026-11-20T22:22:00.124Z",
- "query": "?w=forge&zone=meadow&entry=0&snap=1&snapdl=0&snapwait=8&snaptex=1024&kingdom=0&b=m4984",
+ "at": "2026-11-21T02:19:27.198Z",
+ "query": "?w=forge&zone=meadow&entry=0&snap=1&snapdl=0&snapwait=8&snaptex=1024&kingdom=0&b=m5039",
  "units": "metres, Y up (glTF); the game's +X is his LEFT",
  "tex": 1024,
  "skipped": {
-  "fx": 17,
+  "fx": 18,
   "Sprite": 5,
   "Points": 4,
   "skinned": 7,
@@ -18,14 +18,14 @@
   "mdw_sea": {
    "path": "Group/Group/mdw_sea",
    "mats": [
-    "MeshBasicMaterial_49"
+    "MeshBasicMaterial_53"
    ]
   },
   "mdw_banks_strip": {
    "path": "Group/Group/mdw_banks_strip",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_51"
+    "MeshStandardMaterial_55"
    ],
    "recv": 1
   },
@@ -33,7 +33,7 @@
    "path": "Group/Group/mdw_pond_shore",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_51"
+    "MeshStandardMaterial_55"
    ],
    "recv": 1
   },
@@ -41,7 +41,7 @@
    "path": "Group/Group/mdw_ground",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_50"
+    "MeshStandardMaterial_54"
    ],
    "recv": 1
   },
@@ -50,13 +50,13 @@
    "noLedge": 1,
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_52"
+    "MeshStandardMaterial_56"
    ]
   },
   "mdw_creek_rocks": {
    "path": "Group/Group/mdw_creek_rocks",
    "mats": [
-    "MeshStandardMaterial_60"
+    "MeshStandardMaterial_64"
    ],
    "instances": 70,
    "recv": 1
@@ -64,7 +64,7 @@
   "mdw_shore_pebbles": {
    "path": "Group/Group/mdw_shore_pebbles",
    "mats": [
-    "MeshStandardMaterial_61"
+    "MeshStandardMaterial_65"
    ],
    "instances": 168,
    "recv": 1
@@ -73,7 +73,7 @@
    "path": "Group/Group/mdw_lip_rocks",
    "noLedge": 1,
    "mats": [
-    "MeshStandardMaterial_62"
+    "MeshStandardMaterial_66"
    ],
    "instances": 32,
    "recv": 1
@@ -81,13 +81,13 @@
   "mdw_bank_roots": {
    "path": "Group/Group/mdw_bank_roots",
    "mats": [
-    "MeshStandardMaterial_63"
+    "MeshStandardMaterial_67"
    ]
   },
   "mdw_reeds": {
    "path": "Group/Group/mdw_reeds",
    "mats": [
-    "MeshStandardMaterial_64"
+    "MeshStandardMaterial_68"
    ],
    "instances": 156,
    "recv": 1
@@ -95,7 +95,7 @@
   "mdw_lily_pads": {
    "path": "Group/Group/mdw_lily_pads",
    "mats": [
-    "MeshStandardMaterial_66"
+    "MeshStandardMaterial_70"
    ],
    "instances": 16,
    "recv": 1
@@ -103,7 +103,7 @@
   "mdw_lily_flowers": {
    "path": "Group/Group/mdw_lily_flowers",
    "mats": [
-    "MeshStandardMaterial_67"
+    "MeshStandardMaterial_71"
    ],
    "instances": 6,
    "recv": 1
@@ -113,7 +113,7 @@
    "noLedge": 1,
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_68"
+    "MeshStandardMaterial_72"
    ],
    "instances": 5,
    "recv": 1
@@ -121,7 +121,7 @@
   "mdw_shore_pebbles~1": {
    "path": "Group/Group/mdw_shore_pebbles",
    "mats": [
-    "MeshStandardMaterial_69"
+    "MeshStandardMaterial_73"
    ],
    "instances": 46,
    "recv": 1
@@ -130,7 +130,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 1,
    "recv": 1
@@ -139,7 +139,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 8,
    "recv": 1
@@ -148,7 +148,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 8,
    "recv": 1
@@ -157,7 +157,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 1,
    "recv": 1
@@ -166,7 +166,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 4,
    "recv": 1
@@ -175,7 +175,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 2,
    "recv": 1
@@ -184,7 +184,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 4,
    "recv": 1
@@ -193,7 +193,7 @@
    "path": "Group/Group/plant:tallgrass",
    "kind": "tallgrass",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 4,
    "recv": 1
@@ -202,7 +202,7 @@
    "path": "Group/Group/plant:tallgrass",
    "kind": "tallgrass",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 6,
    "recv": 1
@@ -210,63 +210,63 @@
   "mdw_falls": {
    "path": "Group/Group/mdw_falls",
    "mats": [
-    "MeshBasicMaterial_71"
+    "MeshBasicMaterial_75"
    ]
   },
   "mdw_clouds": {
    "path": "Group/Group/mdw_clouds",
    "mats": [
-    "MeshStandardMaterial_72"
+    "MeshStandardMaterial_76"
    ],
    "instances": 130
   },
   "mdw_far": {
    "path": "Group/Group/mdw_far",
    "mats": [
-    "MeshLambertMaterial_73"
+    "MeshLambertMaterial_77"
    ]
   },
   "mdw_peaks": {
    "path": "Group/Group/mdw_peaks",
    "mats": [
-    "MeshBasicMaterial_74"
+    "MeshBasicMaterial_78"
    ]
   },
   "mdw_mist": {
    "path": "Group/Group/mdw_mist",
    "mats": [
-    "MeshBasicMaterial_75"
+    "MeshBasicMaterial_79"
    ]
   },
   "mdw_mist~1": {
    "path": "Group/Group/mdw_mist",
    "mats": [
-    "MeshBasicMaterial_76"
+    "MeshBasicMaterial_80"
    ]
   },
   "mdw_mist~2": {
    "path": "Group/Group/mdw_mist",
    "mats": [
-    "MeshBasicMaterial_77"
+    "MeshBasicMaterial_81"
    ]
   },
   "mdw_moons": {
    "path": "Group/Group/mdw_moons",
    "mats": [
-    "MeshLambertMaterial_78"
+    "MeshLambertMaterial_82"
    ]
   },
   "mdw_banks": {
    "path": "Group/Group/mdw_banks",
    "mats": [
-    "MeshBasicMaterial_79"
+    "MeshBasicMaterial_83"
    ],
    "instances": 7
   },
   "mdw_banks~1": {
    "path": "Group/Group/mdw_banks",
    "mats": [
-    "MeshBasicMaterial_80"
+    "MeshBasicMaterial_84"
    ],
    "instances": 6
   },
@@ -274,7 +274,7 @@
    "path": "Group/Group/plant:mdw_round",
    "kind": "mdw_round",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 4,
    "cast": 1,
@@ -284,7 +284,7 @@
    "path": "Group/Group/plant:cherry",
    "kind": "cherry",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 2,
    "cast": 1,
@@ -294,7 +294,7 @@
    "path": "Group/Group/plant:mdw_slim",
    "kind": "mdw_slim",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 8,
    "cast": 1,
@@ -304,7 +304,7 @@
    "path": "Group/Group/plant:mdw_round",
    "kind": "mdw_round",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 1,
    "cast": 1,
@@ -314,7 +314,7 @@
    "path": "Group/Group/plant:mdw_round",
    "kind": "mdw_round",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 2,
    "cast": 1,
@@ -324,7 +324,7 @@
    "path": "Group/Group/plant:mdw_slim",
    "kind": "mdw_slim",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 1,
    "cast": 1,
@@ -334,7 +334,7 @@
    "path": "Group/Group/plant:pine",
    "kind": "pine",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 3,
    "cast": 1,
@@ -344,7 +344,7 @@
    "path": "Group/Group/plant:cherry",
    "kind": "cherry",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 1,
    "cast": 1,
@@ -356,101 +356,108 @@
   "ground:scatter": {
    "path": "Group/Group/gk_meadow/ground:scatter",
    "mats": [
-    "MeshStandardMaterial_84"
+    "MeshStandardMaterial_88"
+   ],
+   "recv": 1
+  },
+  "ground:paths": {
+   "path": "Group/Group/gk_meadow/ground:paths",
+   "mats": [
+    "MeshStandardMaterial_89"
    ],
    "recv": 1
   },
   "mesh": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshBasicMaterial_118"
+    "MeshBasicMaterial_123"
    ],
    "recv": 1
   },
   "windmill_lantern_body": {
    "path": "Group/Group/Group/Group/windmill_lantern_body",
    "mats": [
-    "MeshStandardMaterial_164"
+    "MeshStandardMaterial_169"
    ]
   },
   "mesh~1": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshBasicMaterial_122"
+    "MeshBasicMaterial_127"
    ],
    "recv": 1
   },
   "windmill_lantern_body~1": {
    "path": "Group/Group/Group/Group/windmill_lantern_body",
    "mats": [
-    "MeshStandardMaterial_165"
+    "MeshStandardMaterial_170"
    ]
   },
   "mesh~2": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshBasicMaterial_126"
+    "MeshBasicMaterial_131"
    ],
    "recv": 1
   },
   "windmill_lantern_body~2": {
    "path": "Group/Group/Group/Group/windmill_lantern_body",
    "mats": [
-    "MeshStandardMaterial_166"
+    "MeshStandardMaterial_171"
    ]
   },
   "mesh~3": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshBasicMaterial_130"
+    "MeshBasicMaterial_135"
    ],
    "recv": 1
   },
   "windmill_lantern_body~3": {
    "path": "Group/Group/Group/Group/windmill_lantern_body",
    "mats": [
-    "MeshStandardMaterial_167"
+    "MeshStandardMaterial_172"
    ]
   },
   "windmill_deckfloor": {
    "path": "Group/Group/Group/windmill_deckfloor",
    "noLedge": 1,
    "mats": [
-    "MeshBasicMaterial_134"
+    "MeshBasicMaterial_139"
    ]
   },
   "mesh~4": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_168"
+    "MeshStandardMaterial_173"
    ],
    "recv": 1
   },
   "mesh~5": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshBasicMaterial_136"
+    "MeshBasicMaterial_141"
    ],
    "recv": 1
   },
   "windmill_mdw_mill_jade": {
    "path": "Group/Group/Group/windmill_mdw_mill_jade",
    "mats": [
-    "MeshStandardMaterial_91"
+    "MeshStandardMaterial_96"
    ],
    "recv": 1
   },
   "windmill_mdw_mill_banner": {
    "path": "Group/Group/Group/windmill_mdw_mill_banner",
    "mats": [
-    "MeshStandardMaterial_172"
+    "MeshStandardMaterial_177"
    ],
    "recv": 1
   },
   "mesh~6": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_173"
+    "MeshStandardMaterial_178"
    ],
    "cast": 1,
    "recv": 1
@@ -458,14 +465,14 @@
   "mesh~7": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_174"
+    "MeshStandardMaterial_179"
    ],
    "recv": 1
   },
   "mesh~8": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_175"
+    "MeshStandardMaterial_180"
    ],
    "cast": 1,
    "recv": 1
@@ -473,14 +480,14 @@
   "mesh~9": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_176"
+    "MeshStandardMaterial_181"
    ],
    "recv": 1
   },
   "mesh~10": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_177"
+    "MeshStandardMaterial_182"
    ],
    "cast": 1,
    "recv": 1
@@ -488,14 +495,14 @@
   "mesh~11": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_178"
+    "MeshStandardMaterial_183"
    ],
    "recv": 1
   },
   "mesh~12": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_179"
+    "MeshStandardMaterial_184"
    ],
    "cast": 1,
    "recv": 1
@@ -503,42 +510,42 @@
   "mesh~13": {
    "path": "Group/Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_180"
+    "MeshStandardMaterial_185"
    ],
    "recv": 1
   },
   "mesh~14": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_145"
+    "MeshStandardMaterial_150"
    ],
    "recv": 1
   },
   "mesh~15": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_145"
+    "MeshStandardMaterial_150"
    ],
    "recv": 1
   },
   "mesh~16": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_181"
+    "MeshStandardMaterial_186"
    ],
    "recv": 1
   },
   "mesh~17": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_182"
+    "MeshStandardMaterial_187"
    ],
    "recv": 1
   },
   "windmill_deck_lacq": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_lacq",
    "mats": [
-    "MeshStandardMaterial_170"
+    "MeshStandardMaterial_175"
    ],
    "cast": 1,
    "recv": 1
@@ -546,7 +553,7 @@
   "windmill_deck_gold": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_gold",
    "mats": [
-    "MeshStandardMaterial_171"
+    "MeshStandardMaterial_176"
    ],
    "cast": 1,
    "recv": 1
@@ -554,14 +561,14 @@
   "mesh~18": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_183"
+    "MeshStandardMaterial_188"
    ],
    "recv": 1
   },
   "windmill_deck_lacq~1": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_lacq",
    "mats": [
-    "MeshStandardMaterial_170"
+    "MeshStandardMaterial_175"
    ],
    "cast": 1,
    "recv": 1
@@ -569,7 +576,7 @@
   "windmill_deck_gold~1": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_gold",
    "mats": [
-    "MeshStandardMaterial_171"
+    "MeshStandardMaterial_176"
    ],
    "cast": 1,
    "recv": 1
@@ -577,14 +584,14 @@
   "mesh~19": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_184"
+    "MeshStandardMaterial_189"
    ],
    "recv": 1
   },
   "windmill_deck_lacq~2": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_lacq",
    "mats": [
-    "MeshStandardMaterial_170"
+    "MeshStandardMaterial_175"
    ],
    "cast": 1,
    "recv": 1
@@ -592,7 +599,7 @@
   "windmill_deck_gold~2": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_gold",
    "mats": [
-    "MeshStandardMaterial_171"
+    "MeshStandardMaterial_176"
    ],
    "cast": 1,
    "recv": 1
@@ -600,14 +607,14 @@
   "mesh~20": {
    "path": "Group/Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_185"
+    "MeshStandardMaterial_190"
    ],
    "recv": 1
   },
   "windmill_deck_lacq~3": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_lacq",
    "mats": [
-    "MeshStandardMaterial_170"
+    "MeshStandardMaterial_175"
    ],
    "cast": 1,
    "recv": 1
@@ -615,7 +622,7 @@
   "windmill_deck_gold~3": {
    "path": "Group/Group/Group/Group/Group/windmill_deck_gold",
    "mats": [
-    "MeshStandardMaterial_171"
+    "MeshStandardMaterial_176"
    ],
    "cast": 1,
    "recv": 1
@@ -623,54 +630,54 @@
   "windmill_rotor_mdw_mill_stone_far": {
    "path": "Group/Group/Group/Group/windmill_rotor_mdw_mill_stone_far",
    "mats": [
-    "MeshStandardMaterial_169"
+    "MeshStandardMaterial_174"
    ]
   },
   "windmill_rotor_mdw_mill_lacq_far": {
    "path": "Group/Group/Group/Group/windmill_rotor_mdw_mill_lacq_far",
    "mats": [
-    "MeshStandardMaterial_170"
+    "MeshStandardMaterial_175"
    ]
   },
   "windmill_rotor_mdw_mill_gold_far": {
    "path": "Group/Group/Group/Group/windmill_rotor_mdw_mill_gold_far",
    "mats": [
-    "MeshStandardMaterial_171"
+    "MeshStandardMaterial_176"
    ],
    "cast": 1
   },
   "windmill_mdw_mill_stone_far": {
    "path": "Group/Group/Group/windmill_mdw_mill_stone_far",
    "mats": [
-    "MeshStandardMaterial_169"
+    "MeshStandardMaterial_174"
    ],
    "cast": 1
   },
   "windmill_mdw_mill_lacq_far": {
    "path": "Group/Group/Group/windmill_mdw_mill_lacq_far",
    "mats": [
-    "MeshStandardMaterial_170"
+    "MeshStandardMaterial_175"
    ],
    "cast": 1
   },
   "windmill_mdw_mill_gold_far": {
    "path": "Group/Group/Group/windmill_mdw_mill_gold_far",
    "mats": [
-    "MeshStandardMaterial_171"
+    "MeshStandardMaterial_176"
    ],
    "cast": 1
   },
   "windmill_panes": {
    "path": "Group/Group/Group/windmill_panes",
    "mats": [
-    "MeshBasicMaterial_117"
+    "MeshBasicMaterial_122"
    ]
   },
   "treebase_mdw_mill_cherry_base_pillow": {
    "path": "Group/Group/Group/treebase_mdw_mill_cherry_base_pillow",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_94"
+    "MeshStandardMaterial_99"
    ],
    "cast": 1,
    "recv": 1
@@ -679,7 +686,7 @@
    "path": "Group/Group/Group/treebase_mdw_mill_cherry_base_goldk",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_96"
+    "MeshStandardMaterial_101"
    ],
    "cast": 1,
    "recv": 1
@@ -688,7 +695,7 @@
    "path": "Group/Group/Group/treebase_mdw_mill_cherry_base_goldP",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_99"
+    "MeshStandardMaterial_104"
    ],
    "cast": 1,
    "recv": 1
@@ -697,7 +704,7 @@
    "path": "Group/Group/Group/treebase_mdw_mill_cherry_base_greyS",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_101"
+    "MeshStandardMaterial_106"
    ],
    "cast": 1,
    "recv": 1
@@ -705,7 +712,7 @@
   "treebase_mdw_mill_cherry_base_d_mossL": {
    "path": "Group/Group/Group/treebase_mdw_mill_cherry_base_d_mossL",
    "mats": [
-    "MeshStandardMaterial_103"
+    "MeshStandardMaterial_108"
    ],
    "cast": 1,
    "recv": 1
@@ -713,7 +720,7 @@
   "tree_mdw_mill_cherry": {
    "path": "Group/Group/Group/tree_mdw_mill_cherry",
    "mats": [
-    "MeshStandardMaterial_100"
+    "MeshStandardMaterial_105"
    ],
    "cast": 1,
    "recv": 1
@@ -721,28 +728,28 @@
   "tree_mdw_mill_cherry_cards": {
    "path": "Group/Group/Group/tree_mdw_mill_cherry_cards",
    "mats": [
-    "MeshStandardMaterial_105"
+    "MeshStandardMaterial_110"
    ],
    "cast": 1
   },
   "mesh~21": {
    "path": "Group/Group/Group/Mesh",
    "mats": [
-    "MeshStandardMaterial_105"
+    "MeshStandardMaterial_110"
    ]
   },
   "mesh~22": {
    "path": "Group/Group/Group/Mesh",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_86"
+    "MeshStandardMaterial_91"
    ]
   },
   "mesh~23": {
    "path": "Group/Group/Group/Mesh",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_86"
+    "MeshStandardMaterial_91"
    ]
   },
   "mdw_farm": {
@@ -755,7 +762,7 @@
    "path": "Group/Group/mdw_farm/gkit_jars/gk_clay",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_197"
+    "MeshStandardMaterial_202"
    ],
    "recv": 1
   },
@@ -763,7 +770,7 @@
    "path": "Group/Group/mdw_farm/gkit_jars/gk_bronze",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_198"
+    "MeshStandardMaterial_203"
    ],
    "recv": 1
   },
@@ -774,7 +781,7 @@
    "path": "Group/Group/mdw_farm/gkit_jars/gk_clay",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_197"
+    "MeshStandardMaterial_202"
    ],
    "recv": 1
   },
@@ -782,7 +789,7 @@
    "path": "Group/Group/mdw_farm/gkit_jars/gk_bronze",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_198"
+    "MeshStandardMaterial_203"
    ],
    "recv": 1
   },
@@ -792,7 +799,7 @@
   "gk_leaf": {
    "path": "Group/Group/mdw_farm/gkit_succulents/gk_leaf",
    "mats": [
-    "MeshStandardMaterial_200"
+    "MeshStandardMaterial_205"
    ],
    "recv": 1
   },
@@ -802,7 +809,7 @@
   "gk_leaf~1": {
    "path": "Group/Group/mdw_farm/gkit_succulents/gk_leaf",
    "mats": [
-    "MeshStandardMaterial_200"
+    "MeshStandardMaterial_205"
    ],
    "recv": 1
   },
@@ -813,7 +820,7 @@
    "path": "Group/Group/mdw_farm/gkit_rocks/gk_stone",
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_195"
+    "MeshStandardMaterial_200"
    ],
    "cast": 1,
    "recv": 1
@@ -821,68 +828,68 @@
   "mdw_farm_far_stone": {
    "path": "Group/Group/mdw_farm/mdw_farm_far_stone",
    "mats": [
-    "MeshStandardMaterial_195"
+    "MeshStandardMaterial_200"
    ],
    "recv": 1
   },
   "mdw_farm_far_wood": {
    "path": "Group/Group/mdw_farm/mdw_farm_far_wood",
    "mats": [
-    "MeshStandardMaterial_196"
+    "MeshStandardMaterial_201"
    ],
    "recv": 1
   },
   "mdw_farm_far_bronze": {
    "path": "Group/Group/mdw_farm/mdw_farm_far_bronze",
    "mats": [
-    "MeshStandardMaterial_198"
+    "MeshStandardMaterial_203"
    ],
    "recv": 1
   },
   "mdw_farm_far_cloth": {
    "path": "Group/Group/mdw_farm/mdw_farm_far_cloth",
    "mats": [
-    "MeshStandardMaterial_199"
+    "MeshStandardMaterial_204"
    ],
    "recv": 1
   },
   "mdw_farm_far_glow": {
    "path": "Group/Group/mdw_farm/mdw_farm_far_glow",
    "mats": [
-    "MeshBasicMaterial_190"
+    "MeshBasicMaterial_195"
    ],
    "recv": 1
   },
   "mdw_farm_far_clay": {
    "path": "Group/Group/mdw_farm/mdw_farm_far_clay",
    "mats": [
-    "MeshStandardMaterial_197"
+    "MeshStandardMaterial_202"
    ],
    "recv": 1
   },
   "mdw_torch_bracket": {
    "path": "Group/Group/mdw_torch_bracket",
    "mats": [
-    "MeshStandardMaterial_205"
+    "MeshStandardMaterial_210"
    ]
   },
   "mdw_torch_haft": {
    "path": "Group/Group/mdw_torch_haft",
    "mats": [
-    "MeshStandardMaterial_206"
+    "MeshStandardMaterial_211"
    ]
   },
   "mdw_torch_rag": {
    "path": "Group/Group/mdw_torch_rag",
    "mats": [
-    "MeshStandardMaterial_207"
+    "MeshStandardMaterial_212"
    ]
   },
   "plant:mdw_daisy": {
    "path": "Group/Group/plant:mdw_daisy",
    "kind": "mdw_daisy",
    "mats": [
-    "MeshStandardMaterial_209"
+    "MeshStandardMaterial_214"
    ],
    "instances": 31,
    "recv": 1
@@ -891,7 +898,7 @@
    "path": "Group/Group/plant:mdw_daisy",
    "kind": "mdw_daisy",
    "mats": [
-    "MeshStandardMaterial_209"
+    "MeshStandardMaterial_214"
    ],
    "instances": 79,
    "recv": 1
@@ -899,14 +906,14 @@
   "mdw_lupins": {
    "path": "Group/Group/mdw_lupins",
    "mats": [
-    "MeshStandardMaterial_210"
+    "MeshStandardMaterial_215"
    ],
    "instances": 110
   },
   "mdw_daisy_field": {
    "path": "Group/Group/mdw_daisy_field",
    "mats": [
-    "MeshStandardMaterial_211"
+    "MeshStandardMaterial_216"
    ],
    "instances": 303
   },
@@ -914,7 +921,7 @@
    "path": "Group/Group/plant:shrub",
    "kind": "shrub",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 8,
    "recv": 1
@@ -923,7 +930,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 11,
    "recv": 1
@@ -932,7 +939,7 @@
    "path": "Group/Group/plant:tallgrass",
    "kind": "tallgrass",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 10,
    "recv": 1
@@ -941,7 +948,7 @@
    "path": "Group/Group/plant:tallgrass",
    "kind": "tallgrass",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 8,
    "recv": 1
@@ -950,7 +957,7 @@
    "path": "Group/Group/plant:shrub",
    "kind": "shrub",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 9,
    "recv": 1
@@ -959,7 +966,7 @@
    "path": "Group/Group/plant:fern",
    "kind": "fern",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 3,
    "recv": 1
@@ -968,7 +975,7 @@
    "path": "Group/Group/plant:shrub",
    "kind": "shrub",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 4,
    "recv": 1
@@ -977,7 +984,7 @@
    "path": "Group/Group/plant:frond",
    "kind": "frond",
    "mats": [
-    "MeshStandardMaterial_350"
+    "MeshStandardMaterial_348"
    ],
    "instances": 5,
    "recv": 1
@@ -985,21 +992,21 @@
   "mdw_tufts": {
    "path": "Group/Group/mdw_tufts",
    "mats": [
-    "MeshStandardMaterial_212"
+    "MeshStandardMaterial_217"
    ],
-   "instances": 1131
+   "instances": 1118
   },
   "mdw_fence_posts": {
    "path": "Group/Group/mdw_fence_posts",
    "mats": [
-    "MeshStandardMaterial_213"
+    "MeshStandardMaterial_218"
    ],
    "instances": 27
   },
   "mdw_fence_rails": {
    "path": "Group/Group/mdw_fence_rails",
    "mats": [
-    "MeshStandardMaterial_214"
+    "MeshStandardMaterial_219"
    ]
   },
   "mdw_rocks": {
@@ -1007,7 +1014,7 @@
    "noLedge": 1,
    "collider": "mesh",
    "mats": [
-    "MeshStandardMaterial_215"
+    "MeshStandardMaterial_220"
    ],
    "instances": 5,
    "recv": 1
@@ -1016,42 +1023,42 @@
    "path": "Group/Group/plant:mdw_blades",
    "kind": "mdw_blades",
    "mats": [
-    "MeshStandardMaterial_216"
+    "MeshStandardMaterial_221"
    ],
-   "instances": 287,
+   "instances": 296,
    "recv": 1
   },
   "plant:mdw_blades~1": {
    "path": "Group/Group/plant:mdw_blades",
    "kind": "mdw_blades",
    "mats": [
-    "MeshStandardMaterial_216"
+    "MeshStandardMaterial_221"
    ],
-   "instances": 110,
+   "instances": 116,
    "recv": 1
   },
   "plant:mdw_blades~2": {
    "path": "Group/Group/plant:mdw_blades",
    "kind": "mdw_blades",
    "mats": [
-    "MeshStandardMaterial_216"
+    "MeshStandardMaterial_221"
    ],
-   "instances": 91,
+   "instances": 78,
    "recv": 1
   },
   "plant:mdw_blades~3": {
    "path": "Group/Group/plant:mdw_blades",
    "kind": "mdw_blades",
    "mats": [
-    "MeshStandardMaterial_216"
+    "MeshStandardMaterial_221"
    ],
-   "instances": 32,
+   "instances": 30,
    "recv": 1
   },
   "mdw_seedheads": {
    "path": "Group/Group/mdw_seedheads",
    "mats": [
-    "MeshStandardMaterial_217"
+    "MeshStandardMaterial_222"
    ],
    "instances": 93,
    "recv": 1
@@ -1074,6 +1081,46 @@
    ],
    "cast": 1,
    "recv": 1
+  },
+  "mdw_mtn_mtn_peak_A": {
+   "path": "Group/Group/mdw_mtn_mtn_peak_A",
+   "mats": [
+    "tripo_mat_0bdfa4dc"
+   ],
+   "instances": 1
+  },
+  "mdw_mtn_mtn_cliff_A": {
+   "path": "Group/Group/mdw_mtn_mtn_cliff_A",
+   "mats": [
+    "tripo_mat_789d4338"
+   ],
+   "instances": 2
+  },
+  "mdw_mtn_mtn_mesa_A": {
+   "path": "Group/Group/mdw_mtn_mtn_mesa_A",
+   "mats": [
+    "tripo_mat_789d4338~1"
+   ],
+   "instances": 2
+  },
+  "mdw_mtn_ring": {
+   "path": "Group/Group/mdw_mtn_ring",
+   "mats": [
+    "tripo_mat_0bdfa4dc~1"
+   ]
+  },
+  "mdw_far_falls": {
+   "path": "Group/Group/mdw_far_falls",
+   "mats": [
+    "MeshBasicMaterial_254"
+   ]
+  },
+  "mdw_far_mist": {
+   "path": "Group/Group/mdw_far_mist",
+   "mats": [
+    "MeshBasicMaterial_255"
+   ],
+   "instances": 5
   },
   "mdw_rubble_far_boulder_a": {
    "path": "Group/Group/mdw_rubble_far_boulder_a",
@@ -1107,74 +1154,34 @@
    "instances": 6,
    "recv": 1
   },
-  "mdw_mtn_mtn_peak_A": {
-   "path": "Group/Group/mdw_mtn_mtn_peak_A",
-   "mats": [
-    "tripo_mat_0bdfa4dc"
-   ],
-   "instances": 1
-  },
-  "mdw_mtn_mtn_cliff_A": {
-   "path": "Group/Group/mdw_mtn_mtn_cliff_A",
-   "mats": [
-    "tripo_mat_789d4338"
-   ],
-   "instances": 2
-  },
-  "mdw_mtn_mtn_mesa_A": {
-   "path": "Group/Group/mdw_mtn_mtn_mesa_A",
-   "mats": [
-    "tripo_mat_789d4338~1"
-   ],
-   "instances": 2
-  },
-  "mdw_mtn_ring": {
-   "path": "Group/Group/mdw_mtn_ring",
-   "mats": [
-    "tripo_mat_0bdfa4dc~1"
-   ]
-  },
-  "mdw_far_falls": {
-   "path": "Group/Group/mdw_far_falls",
-   "mats": [
-    "MeshBasicMaterial_271"
-   ]
-  },
-  "mdw_far_mist": {
-   "path": "Group/Group/mdw_far_mist",
-   "mats": [
-    "MeshBasicMaterial_272"
-   ],
-   "instances": 5
-  },
   "skyjelly_mj_pond_a_far": {
    "path": "Group/Group/Group/skyjelly_mj_pond_a_far",
    "mats": [
-    "MeshStandardMaterial_335"
+    "MeshStandardMaterial_339"
    ]
   },
   "skyjelly_mj_pond_b_far": {
    "path": "Group/Group/Group/skyjelly_mj_pond_b_far",
    "mats": [
-    "MeshStandardMaterial_335"
+    "MeshStandardMaterial_339"
    ]
   },
   "skyjelly_mj_grp_a_far": {
    "path": "Group/Group/Group/skyjelly_mj_grp_a_far",
    "mats": [
-    "MeshStandardMaterial_335"
+    "MeshStandardMaterial_339"
    ]
   },
   "skyjelly_mj_grp_b_far": {
    "path": "Group/Group/Group/skyjelly_mj_grp_b_far",
    "mats": [
-    "MeshStandardMaterial_335"
+    "MeshStandardMaterial_339"
    ]
   },
   "skyjelly_mj_grp_c_far": {
    "path": "Group/Group/Group/skyjelly_mj_grp_c_far",
    "mats": [
-    "MeshStandardMaterial_335"
+    "MeshStandardMaterial_339"
    ]
   },
   "drop_shadow": {
@@ -1185,15 +1192,15 @@
   }
  },
  "materials": {
-  "MeshBasicMaterial_49": {
+  "MeshBasicMaterial_53": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_49"
+   "out": "MeshBasicMaterial_53"
   },
-  "MeshStandardMaterial_51": {
+  "MeshStandardMaterial_55": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1201,9 +1208,9 @@
     "key:mdwground3wet",
     "uniforms:uStroke,uCloud,uT,uMdwN,uLp,uLc"
    ],
-   "out": "MeshStandardMaterial_51"
+   "out": "MeshStandardMaterial_55"
   },
-  "MeshStandardMaterial_50": {
+  "MeshStandardMaterial_54": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1211,9 +1218,9 @@
     "key:mdwground3",
     "uniforms:uStroke,uCloud,uT,uMdwN,uLp,uLc"
    ],
-   "out": "MeshStandardMaterial_50"
+   "out": "MeshStandardMaterial_54"
   },
-  "MeshStandardMaterial_52": {
+  "MeshStandardMaterial_56": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1224,9 +1231,9 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_52"
+   "out": "MeshStandardMaterial_56"
   },
-  "MeshStandardMaterial_60": {
+  "MeshStandardMaterial_64": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1237,9 +1244,9 @@
     "key:paint:1_ng0.34_0.36_0.5_rp",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_60"
+   "out": "MeshStandardMaterial_64"
   },
-  "MeshStandardMaterial_61": {
+  "MeshStandardMaterial_65": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1250,9 +1257,9 @@
     "key:paint:1_ng0.34_0.36_0.5_rp",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_61"
+   "out": "MeshStandardMaterial_65"
   },
-  "MeshStandardMaterial_62": {
+  "MeshStandardMaterial_66": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1263,9 +1270,9 @@
     "key:paint:1_ng0.34_0.36_0.5_rp",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_62"
+   "out": "MeshStandardMaterial_66"
   },
-  "MeshStandardMaterial_63": {
+  "MeshStandardMaterial_67": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1277,9 +1284,9 @@
     "key:paint:1_ng0.34_0.36_0.5",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_63"
+   "out": "MeshStandardMaterial_67"
   },
-  "MeshStandardMaterial_64": {
+  "MeshStandardMaterial_68": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1293,9 +1300,9 @@
     "key:paint:1_ng0.24_0.38_0.46|leaf1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
    ],
-   "out": "MeshStandardMaterial_64"
+   "out": "MeshStandardMaterial_68"
   },
-  "MeshStandardMaterial_66": {
+  "MeshStandardMaterial_70": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1307,9 +1314,9 @@
     "key:paint:1_ng0.24_0.38_0.46",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_66"
+   "out": "MeshStandardMaterial_70"
   },
-  "MeshStandardMaterial_67": {
+  "MeshStandardMaterial_71": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1317,9 +1324,9 @@
     "key:mdwlily",
     "uniforms:uMdwN"
    ],
-   "out": "MeshStandardMaterial_67"
+   "out": "MeshStandardMaterial_71"
   },
-  "MeshStandardMaterial_68": {
+  "MeshStandardMaterial_72": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1330,9 +1337,9 @@
     "key:paint:1_ng0.34_0.36_0.5_rp",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_68"
+   "out": "MeshStandardMaterial_72"
   },
-  "MeshStandardMaterial_69": {
+  "MeshStandardMaterial_73": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1343,9 +1350,9 @@
     "key:paint:1_ng0.34_0.36_0.5_rp",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_69"
+   "out": "MeshStandardMaterial_73"
   },
-  "MeshStandardMaterial_350": {
+  "MeshStandardMaterial_348": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1355,17 +1362,17 @@
     "key:plant1_generic_ng0.24_0.38_0.46",
     "uniforms:uTime,uWind,uPmN,uMdwN"
    ],
-   "out": "MeshStandardMaterial_350"
+   "out": "MeshStandardMaterial_348"
   },
-  "MeshBasicMaterial_71": {
+  "MeshBasicMaterial_75": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_71"
+   "out": "MeshBasicMaterial_75"
   },
-  "MeshStandardMaterial_72": {
+  "MeshStandardMaterial_76": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1376,57 +1383,24 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_72"
+   "out": "MeshStandardMaterial_76"
   },
-  "MeshLambertMaterial_73": {
+  "MeshLambertMaterial_77": {
    "src": "",
    "type": "MeshLambertMaterial",
    "tags": [
     "uniforms:"
    ],
    "converted": "MeshLambertMaterial",
-   "out": "MeshLambertMaterial_73"
+   "out": "MeshLambertMaterial_77"
   },
-  "MeshBasicMaterial_74": {
+  "MeshBasicMaterial_78": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_74"
-  },
-  "MeshBasicMaterial_75": {
-   "src": "",
-   "type": "MeshBasicMaterial",
-   "tags": [
-    "uniforms:"
-   ],
-   "out": "MeshBasicMaterial_75"
-  },
-  "MeshBasicMaterial_76": {
-   "src": "",
-   "type": "MeshBasicMaterial",
-   "tags": [
-    "uniforms:"
-   ],
-   "out": "MeshBasicMaterial_76"
-  },
-  "MeshBasicMaterial_77": {
-   "src": "",
-   "type": "MeshBasicMaterial",
-   "tags": [
-    "uniforms:"
-   ],
-   "out": "MeshBasicMaterial_77"
-  },
-  "MeshLambertMaterial_78": {
-   "src": "",
-   "type": "MeshLambertMaterial",
-   "tags": [
-    "uniforms:"
-   ],
-   "converted": "MeshLambertMaterial",
-   "out": "MeshLambertMaterial_78"
+   "out": "MeshBasicMaterial_78"
   },
   "MeshBasicMaterial_79": {
    "src": "",
@@ -1444,7 +1418,40 @@
    ],
    "out": "MeshBasicMaterial_80"
   },
-  "MeshStandardMaterial_84": {
+  "MeshBasicMaterial_81": {
+   "src": "",
+   "type": "MeshBasicMaterial",
+   "tags": [
+    "uniforms:"
+   ],
+   "out": "MeshBasicMaterial_81"
+  },
+  "MeshLambertMaterial_82": {
+   "src": "",
+   "type": "MeshLambertMaterial",
+   "tags": [
+    "uniforms:"
+   ],
+   "converted": "MeshLambertMaterial",
+   "out": "MeshLambertMaterial_82"
+  },
+  "MeshBasicMaterial_83": {
+   "src": "",
+   "type": "MeshBasicMaterial",
+   "tags": [
+    "uniforms:"
+   ],
+   "out": "MeshBasicMaterial_83"
+  },
+  "MeshBasicMaterial_84": {
+   "src": "",
+   "type": "MeshBasicMaterial",
+   "tags": [
+    "uniforms:"
+   ],
+   "out": "MeshBasicMaterial_84"
+  },
+  "MeshStandardMaterial_88": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1454,17 +1461,26 @@
     "key:gdk2s30_46L0",
     "uniforms:uGdT,uGdF"
    ],
-   "out": "MeshStandardMaterial_84"
+   "out": "MeshStandardMaterial_88"
   },
-  "MeshBasicMaterial_118": {
+  "MeshStandardMaterial_89": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "key:gdpath3",
+    "uniforms:uPm_dirt,uPm_gravel,uPm_sand,uPm_roots"
+   ],
+   "out": "MeshStandardMaterial_89"
+  },
+  "MeshBasicMaterial_123": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_118"
+   "out": "MeshBasicMaterial_123"
   },
-  "MeshStandardMaterial_164": {
+  "MeshStandardMaterial_169": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1476,17 +1492,17 @@
     "key:paint:1_ng0.34_0.36_0.5",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_164"
+   "out": "MeshStandardMaterial_169"
   },
-  "MeshBasicMaterial_122": {
+  "MeshBasicMaterial_127": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_122"
+   "out": "MeshBasicMaterial_127"
   },
-  "MeshStandardMaterial_165": {
+  "MeshStandardMaterial_170": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1498,17 +1514,17 @@
     "key:paint:1_ng0.34_0.36_0.5",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_165"
+   "out": "MeshStandardMaterial_170"
   },
-  "MeshBasicMaterial_126": {
+  "MeshBasicMaterial_131": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_126"
+   "out": "MeshBasicMaterial_131"
   },
-  "MeshStandardMaterial_166": {
+  "MeshStandardMaterial_171": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1520,88 +1536,37 @@
     "key:paint:1_ng0.34_0.36_0.5",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_166"
+   "out": "MeshStandardMaterial_171"
   },
-  "MeshBasicMaterial_130": {
+  "MeshBasicMaterial_135": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_130"
-  },
-  "MeshStandardMaterial_167": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "night",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
-   ],
-   "out": "MeshStandardMaterial_167"
-  },
-  "MeshBasicMaterial_134": {
-   "src": "",
-   "type": "MeshBasicMaterial",
-   "tags": [
-    "uniforms:"
-   ],
-   "out": "MeshBasicMaterial_134"
-  },
-  "MeshStandardMaterial_168": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "night",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
-   ],
-   "out": "MeshStandardMaterial_168"
-  },
-  "MeshBasicMaterial_136": {
-   "src": "",
-   "type": "MeshBasicMaterial",
-   "tags": [
-    "uniforms:"
-   ],
-   "out": "MeshBasicMaterial_136"
-  },
-  "MeshStandardMaterial_91": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
-   ],
-   "out": "MeshStandardMaterial_91"
+   "out": "MeshBasicMaterial_135"
   },
   "MeshStandardMaterial_172": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
-    "wind",
-    "glow",
     "paint",
-    "look",
+    "night",
     "rim",
     "toon",
     "spec",
-    "key:paint:1_ng0.34_0.36_0.5|leaf1",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
+    "key:paint:1_ng0.34_0.36_0.5",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
    "out": "MeshStandardMaterial_172"
+  },
+  "MeshBasicMaterial_139": {
+   "src": "",
+   "type": "MeshBasicMaterial",
+   "tags": [
+    "uniforms:"
+   ],
+   "out": "MeshBasicMaterial_139"
   },
   "MeshStandardMaterial_173": {
    "src": "",
@@ -1617,113 +1582,15 @@
    ],
    "out": "MeshStandardMaterial_173"
   },
-  "MeshStandardMaterial_174": {
+  "MeshBasicMaterial_141": {
    "src": "",
-   "type": "MeshStandardMaterial",
+   "type": "MeshBasicMaterial",
    "tags": [
-    "wind",
-    "glow",
-    "paint",
-    "look",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5|leaf1",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
+    "uniforms:"
    ],
-   "out": "MeshStandardMaterial_174"
+   "out": "MeshBasicMaterial_141"
   },
-  "MeshStandardMaterial_175": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "night",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
-   ],
-   "out": "MeshStandardMaterial_175"
-  },
-  "MeshStandardMaterial_176": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "wind",
-    "glow",
-    "paint",
-    "look",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5|leaf1",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
-   ],
-   "out": "MeshStandardMaterial_176"
-  },
-  "MeshStandardMaterial_177": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "night",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
-   ],
-   "out": "MeshStandardMaterial_177"
-  },
-  "MeshStandardMaterial_178": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "wind",
-    "glow",
-    "paint",
-    "look",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5|leaf1",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
-   ],
-   "out": "MeshStandardMaterial_178"
-  },
-  "MeshStandardMaterial_179": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "night",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
-   ],
-   "out": "MeshStandardMaterial_179"
-  },
-  "MeshStandardMaterial_180": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "wind",
-    "glow",
-    "paint",
-    "look",
-    "rim",
-    "toon",
-    "spec",
-    "key:paint:1_ng0.34_0.36_0.5|leaf1",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
-   ],
-   "out": "MeshStandardMaterial_180"
-  },
-  "MeshStandardMaterial_145": {
+  "MeshStandardMaterial_96": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1734,9 +1601,25 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_145"
+   "out": "MeshStandardMaterial_96"
   },
-  "MeshStandardMaterial_181": {
+  "MeshStandardMaterial_177": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "wind",
+    "glow",
+    "paint",
+    "look",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5|leaf1",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
+   ],
+   "out": "MeshStandardMaterial_177"
+  },
+  "MeshStandardMaterial_178": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1747,6 +1630,52 @@
     "spec",
     "key:paint:1_ng0.34_0.36_0.5",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_178"
+  },
+  "MeshStandardMaterial_179": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "wind",
+    "glow",
+    "paint",
+    "look",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5|leaf1",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
+   ],
+   "out": "MeshStandardMaterial_179"
+  },
+  "MeshStandardMaterial_180": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "night",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_180"
+  },
+  "MeshStandardMaterial_181": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "wind",
+    "glow",
+    "paint",
+    "look",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5|leaf1",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
    ],
    "out": "MeshStandardMaterial_181"
   },
@@ -1764,41 +1693,19 @@
    ],
    "out": "MeshStandardMaterial_182"
   },
-  "MeshStandardMaterial_170": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "triplanar",
-    "night",
-    "key:paint_ng0.34_0.36_0.5",
-    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc,uMdwN"
-   ],
-   "out": "MeshStandardMaterial_170"
-  },
-  "MeshStandardMaterial_171": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "triplanar",
-    "night",
-    "key:paint_ng0.34_0.36_0.5",
-    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc,uMdwN"
-   ],
-   "out": "MeshStandardMaterial_171"
-  },
   "MeshStandardMaterial_183": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
+    "wind",
+    "glow",
     "paint",
-    "night",
+    "look",
     "rim",
     "toon",
     "spec",
-    "key:paint:1_ng0.34_0.36_0.5",
-    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
+    "key:paint:1_ng0.34_0.36_0.5|leaf1",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
    ],
    "out": "MeshStandardMaterial_183"
   },
@@ -1820,6 +1727,35 @@
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
+    "wind",
+    "glow",
+    "paint",
+    "look",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5|leaf1",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
+   ],
+   "out": "MeshStandardMaterial_185"
+  },
+  "MeshStandardMaterial_150": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
+   ],
+   "out": "MeshStandardMaterial_150"
+  },
+  "MeshStandardMaterial_186": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
     "paint",
     "night",
     "rim",
@@ -1828,9 +1764,23 @@
     "key:paint:1_ng0.34_0.36_0.5",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
-   "out": "MeshStandardMaterial_185"
+   "out": "MeshStandardMaterial_186"
   },
-  "MeshStandardMaterial_169": {
+  "MeshStandardMaterial_187": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "night",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_187"
+  },
+  "MeshStandardMaterial_175": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1840,37 +1790,81 @@
     "key:paint_ng0.34_0.36_0.5",
     "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc,uMdwN"
    ],
-   "out": "MeshStandardMaterial_169"
+   "out": "MeshStandardMaterial_175"
   },
-  "MeshBasicMaterial_117": {
+  "MeshStandardMaterial_176": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "triplanar",
+    "night",
+    "key:paint_ng0.34_0.36_0.5",
+    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_176"
+  },
+  "MeshStandardMaterial_188": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "night",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_188"
+  },
+  "MeshStandardMaterial_189": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "night",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_189"
+  },
+  "MeshStandardMaterial_190": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "night",
+    "rim",
+    "toon",
+    "spec",
+    "key:paint:1_ng0.34_0.36_0.5",
+    "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_190"
+  },
+  "MeshStandardMaterial_174": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "triplanar",
+    "night",
+    "key:paint_ng0.34_0.36_0.5",
+    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc,uMdwN"
+   ],
+   "out": "MeshStandardMaterial_174"
+  },
+  "MeshBasicMaterial_122": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_117"
-  },
-  "MeshStandardMaterial_94": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "triplanar",
-    "key:paint",
-    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc"
-   ],
-   "out": "MeshStandardMaterial_94"
-  },
-  "MeshStandardMaterial_96": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "paint",
-    "triplanar",
-    "key:paint",
-    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc"
-   ],
-   "out": "MeshStandardMaterial_96"
+   "out": "MeshBasicMaterial_122"
   },
   "MeshStandardMaterial_99": {
    "src": "",
@@ -1894,7 +1888,7 @@
    ],
    "out": "MeshStandardMaterial_101"
   },
-  "MeshStandardMaterial_103": {
+  "MeshStandardMaterial_104": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1903,9 +1897,9 @@
     "key:paint",
     "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc"
    ],
-   "out": "MeshStandardMaterial_103"
+   "out": "MeshStandardMaterial_104"
   },
-  "MeshStandardMaterial_100": {
+  "MeshStandardMaterial_106": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1914,9 +1908,31 @@
     "key:paint",
     "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc"
    ],
-   "out": "MeshStandardMaterial_100"
+   "out": "MeshStandardMaterial_106"
+  },
+  "MeshStandardMaterial_108": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "triplanar",
+    "key:paint",
+    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc"
+   ],
+   "out": "MeshStandardMaterial_108"
   },
   "MeshStandardMaterial_105": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "paint",
+    "triplanar",
+    "key:paint",
+    "uniforms:uPaintOn,uNat,uStoneK,uTS,uTB,uEW,uMoss,uSc"
+   ],
+   "out": "MeshStandardMaterial_105"
+  },
+  "MeshStandardMaterial_110": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1927,9 +1943,9 @@
     "key:paint:1|leaf1",
     "uniforms:uT,uLkF,uSunV,uSunC"
    ],
-   "out": "MeshStandardMaterial_105"
+   "out": "MeshStandardMaterial_110"
   },
-  "MeshStandardMaterial_86": {
+  "MeshStandardMaterial_91": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1940,9 +1956,9 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_86"
+   "out": "MeshStandardMaterial_91"
   },
-  "MeshStandardMaterial_197": {
+  "MeshStandardMaterial_202": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1954,9 +1970,9 @@
     "key:paint:1_ng0.34_0.36_0.5L",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLp,uLc"
    ],
-   "out": "MeshStandardMaterial_197"
+   "out": "MeshStandardMaterial_202"
   },
-  "MeshStandardMaterial_198": {
+  "MeshStandardMaterial_203": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1965,9 +1981,9 @@
     "key:tri_ng0.34_0.36_0.5L",
     "uniforms:uTS,uMdwN,uLp,uLc"
    ],
-   "out": "MeshStandardMaterial_198"
+   "out": "MeshStandardMaterial_203"
   },
-  "MeshStandardMaterial_200": {
+  "MeshStandardMaterial_205": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1979,9 +1995,20 @@
     "key:paint:1_ng0.34_0.36_0.5L",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLp,uLc"
    ],
+   "out": "MeshStandardMaterial_205"
+  },
+  "MeshStandardMaterial_200": {
+   "src": "",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "triplanar",
+    "night",
+    "key:trib_ng0.34_0.36_0.5L",
+    "uniforms:uTS,uTB,uMdwN,uLp,uLc"
+   ],
    "out": "MeshStandardMaterial_200"
   },
-  "MeshStandardMaterial_195": {
+  "MeshStandardMaterial_201": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -1990,20 +2017,9 @@
     "key:trib_ng0.34_0.36_0.5L",
     "uniforms:uTS,uTB,uMdwN,uLp,uLc"
    ],
-   "out": "MeshStandardMaterial_195"
+   "out": "MeshStandardMaterial_201"
   },
-  "MeshStandardMaterial_196": {
-   "src": "",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "triplanar",
-    "night",
-    "key:trib_ng0.34_0.36_0.5L",
-    "uniforms:uTS,uTB,uMdwN,uLp,uLc"
-   ],
-   "out": "MeshStandardMaterial_196"
-  },
-  "MeshStandardMaterial_199": {
+  "MeshStandardMaterial_204": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2013,17 +2029,17 @@
     "key:gkcloth_ng0.34_0.36_0.5L|leaf1",
     "uniforms:uGkT,uMdwN,uLp,uLc,uLkF,uSunV,uSunC"
    ],
-   "out": "MeshStandardMaterial_199"
+   "out": "MeshStandardMaterial_204"
   },
-  "MeshBasicMaterial_190": {
+  "MeshBasicMaterial_195": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_190"
+   "out": "MeshBasicMaterial_195"
   },
-  "MeshStandardMaterial_205": {
+  "MeshStandardMaterial_210": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2034,9 +2050,9 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_205"
+   "out": "MeshStandardMaterial_210"
   },
-  "MeshStandardMaterial_206": {
+  "MeshStandardMaterial_211": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2047,9 +2063,9 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_206"
+   "out": "MeshStandardMaterial_211"
   },
-  "MeshStandardMaterial_207": {
+  "MeshStandardMaterial_212": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2060,9 +2076,9 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_207"
+   "out": "MeshStandardMaterial_212"
   },
-  "MeshStandardMaterial_209": {
+  "MeshStandardMaterial_214": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2072,9 +2088,9 @@
     "key:plant1_mdw_daisy_ng0.24_0.38_0.46",
     "uniforms:uTime,uWind,uMdwN"
    ],
-   "out": "MeshStandardMaterial_209"
+   "out": "MeshStandardMaterial_214"
   },
-  "MeshStandardMaterial_210": {
+  "MeshStandardMaterial_215": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2084,9 +2100,9 @@
     "key:mdwglow_tip_ng0.24_0.38_0.46|leaf1",
     "uniforms:uMdwN,uLkF,uSunV,uSunC"
    ],
-   "out": "MeshStandardMaterial_210"
+   "out": "MeshStandardMaterial_215"
   },
-  "MeshStandardMaterial_211": {
+  "MeshStandardMaterial_216": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2096,9 +2112,9 @@
     "key:mdwglow_centre_ng0.24_0.38_0.46|leaf1",
     "uniforms:uMdwN,uLkF,uSunV,uSunC"
    ],
-   "out": "MeshStandardMaterial_211"
+   "out": "MeshStandardMaterial_216"
   },
-  "MeshStandardMaterial_212": {
+  "MeshStandardMaterial_217": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2112,9 +2128,9 @@
     "key:paint:1_ng0.24_0.38_0.46|leaf1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN,uLkF,uSunV,uSunC"
    ],
-   "out": "MeshStandardMaterial_212"
+   "out": "MeshStandardMaterial_217"
   },
-  "MeshStandardMaterial_213": {
+  "MeshStandardMaterial_218": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2125,9 +2141,9 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_213"
+   "out": "MeshStandardMaterial_218"
   },
-  "MeshStandardMaterial_214": {
+  "MeshStandardMaterial_219": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2138,9 +2154,9 @@
     "key:paint:1",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_214"
+   "out": "MeshStandardMaterial_219"
   },
-  "MeshStandardMaterial_215": {
+  "MeshStandardMaterial_220": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2151,9 +2167,9 @@
     "key:paint:1_rp",
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT"
    ],
-   "out": "MeshStandardMaterial_215"
+   "out": "MeshStandardMaterial_220"
   },
-  "MeshStandardMaterial_216": {
+  "MeshStandardMaterial_221": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2163,9 +2179,9 @@
     "key:plant1_mdw_blades_ng0.24_0.38_0.46",
     "uniforms:uTime,uWind,uMdwN"
    ],
-   "out": "MeshStandardMaterial_216"
+   "out": "MeshStandardMaterial_221"
   },
-  "MeshStandardMaterial_217": {
+  "MeshStandardMaterial_222": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2173,7 +2189,7 @@
     "key:mdwseeds",
     "uniforms:uMdwN"
    ],
-   "out": "MeshStandardMaterial_217"
+   "out": "MeshStandardMaterial_222"
   },
   "tripo_mat_7d66ff81-751f-4df6-bce2-87e699d12501": {
    "src": "tripo_mat_7d66ff81-751f-4df6-bce2-87e699d12501",
@@ -2200,42 +2216,6 @@
     "uniforms:uToonK,uToonN,uToonSoft,uToonFloor,uRim,uRimP,uRimCol,uSpec,uSpecG,uRimTint,uPaintK,uPaintTile,uPaintP,uPaintI,uPaintC,uPaintW,uPaintT,uMdwN"
    ],
    "out": "tripo_mat_7d66ff81-751f-4df6-bce2-87e699d12501~1"
-  },
-  "tripo_mat_4c4b270f": {
-   "src": "tripo_mat_4c4b270f",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "key:mdwrubbleF",
-    "uniforms:"
-   ],
-   "out": "tripo_mat_4c4b270f"
-  },
-  "tripo_mat_4c4b270f~1": {
-   "src": "tripo_mat_4c4b270f",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "key:mdwrubbleF",
-    "uniforms:"
-   ],
-   "out": "tripo_mat_4c4b270f~1"
-  },
-  "tripo_mat_4c4b270f~2": {
-   "src": "tripo_mat_4c4b270f",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "key:mdwrubbleF",
-    "uniforms:"
-   ],
-   "out": "tripo_mat_4c4b270f~2"
-  },
-  "tripo_mat_4c4b270f~3": {
-   "src": "tripo_mat_4c4b270f",
-   "type": "MeshStandardMaterial",
-   "tags": [
-    "key:mdwrubbleF",
-    "uniforms:"
-   ],
-   "out": "tripo_mat_4c4b270f~3"
   },
   "tripo_mat_0bdfa4dc": {
    "src": "tripo_mat_0bdfa4dc",
@@ -2281,23 +2261,59 @@
    ],
    "out": "tripo_mat_0bdfa4dc~1"
   },
-  "MeshBasicMaterial_271": {
+  "MeshBasicMaterial_254": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_271"
+   "out": "MeshBasicMaterial_254"
   },
-  "MeshBasicMaterial_272": {
+  "MeshBasicMaterial_255": {
    "src": "",
    "type": "MeshBasicMaterial",
    "tags": [
     "uniforms:"
    ],
-   "out": "MeshBasicMaterial_272"
+   "out": "MeshBasicMaterial_255"
   },
-  "MeshStandardMaterial_335": {
+  "tripo_mat_4c4b270f": {
+   "src": "tripo_mat_4c4b270f",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "key:mdwrubbleF",
+    "uniforms:"
+   ],
+   "out": "tripo_mat_4c4b270f"
+  },
+  "tripo_mat_4c4b270f~1": {
+   "src": "tripo_mat_4c4b270f",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "key:mdwrubbleF",
+    "uniforms:"
+   ],
+   "out": "tripo_mat_4c4b270f~1"
+  },
+  "tripo_mat_4c4b270f~2": {
+   "src": "tripo_mat_4c4b270f",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "key:mdwrubbleF",
+    "uniforms:"
+   ],
+   "out": "tripo_mat_4c4b270f~2"
+  },
+  "tripo_mat_4c4b270f~3": {
+   "src": "tripo_mat_4c4b270f",
+   "type": "MeshStandardMaterial",
+   "tags": [
+    "key:mdwrubbleF",
+    "uniforms:"
+   ],
+   "out": "tripo_mat_4c4b270f~3"
+  },
+  "MeshStandardMaterial_339": {
    "src": "",
    "type": "MeshStandardMaterial",
    "tags": [
@@ -2307,7 +2323,7 @@
     "key:sjTriGlow",
     "uniforms:uNight,uT,uSwell"
    ],
-   "out": "MeshStandardMaterial_335"
+   "out": "MeshStandardMaterial_339"
   },
   "MeshBasicMaterial_29": {
    "src": "",
@@ -2359,8 +2375,8 @@
    "name": "skyjelly_mj_spawn_a_near",
    "path": "Group/Group/Group",
    "pos": [
-    -10.054,
-    2.143,
+    -10.053,
+    2.152,
     58.041
    ]
   },
@@ -2369,8 +2385,8 @@
    "path": "Group/Group/Group",
    "pos": [
     6.009,
-    4.578,
-    62.04
+    4.575,
+    62.039
    ]
   },
   {
@@ -2394,7 +2410,7 @@
    ],
    "mat": "",
    "tags": [
-    "uniforms:uSun"
+    "uniforms:uSun,uWx"
    ],
    "additive": 0,
    "uniforms": {
@@ -2402,7 +2418,8 @@
      0.66517,
      0.50001,
      0.55455
-    ]
+    ],
+    "uWx": 0
    }
   },
   {
@@ -2427,15 +2444,15 @@
     "uWake": [
      -6,
      66,
-     0.0008
+     0.00067
     ],
     "uWake2": [
-     -5.52173,
-     60.99223,
-     0.0053
+     -5.56935,
+     61.50762,
+     0.00504
     ],
     "uDrops": [],
-    "uT": 1.3659,
+    "uT": 1.4354,
     "uN": 0,
     "uTint": "#ffffff",
     "uShal": [
@@ -2493,7 +2510,7 @@
    ],
    "additive": 0,
    "uniforms": {
-    "uT": 1.3659,
+    "uT": 1.4354,
     "uLen": 3.85045,
     "uTint": "#ffffff",
     "uN": 0
@@ -2504,7 +2521,7 @@
    "name": "mdw_spring_mist",
    "pos": [
     59.124,
-    4.486,
+    4.49,
     -14.424
    ],
    "count": 4
@@ -2514,7 +2531,7 @@
    "name": "mdw_spring_mist",
    "pos": [
     58.641,
-    4.553,
+    4.537,
     -13.759
    ],
    "count": 4
@@ -2524,7 +2541,7 @@
    "name": "mdw_spring_mist",
    "pos": [
     57.858,
-    4.001,
+    4,
     -14.012
    ],
    "count": 4
@@ -2534,7 +2551,7 @@
    "name": "mdw_spring_mist",
    "pos": [
     57.857,
-    4.512,
+    4.527,
     -14.835
    ],
    "count": 4
@@ -2544,7 +2561,7 @@
    "name": "mdw_spring_mist",
    "pos": [
     58.639,
-    4.496,
+    4.493,
     -15.091
    ],
    "count": 4
@@ -2571,15 +2588,15 @@
     "uWake": [
      -6,
      66,
-     0.0008
+     0.00067
     ],
     "uWake2": [
-     -5.52173,
-     60.99223,
-     0.0053
+     -5.56935,
+     61.50762,
+     0.00504
     ],
     "uDrops": [],
-    "uT": 1.3659,
+    "uT": 1.4354,
     "uN": 0,
     "uTint": "#ffffff",
     "uShal": [
@@ -2660,7 +2677,7 @@
     ],
     "uW": 0.24,
     "uH": 0.5,
-    "uT": 1.3659,
+    "uT": 1.4354,
     "uSeed": 2,
     "uI": 0.25
    }
@@ -2693,7 +2710,7 @@
     ],
     "uW": 0.24,
     "uH": 0.5,
-    "uT": 1.3659,
+    "uT": 1.4354,
     "uSeed": 1,
     "uI": 0.25
    }
@@ -2726,7 +2743,7 @@
     ],
     "uW": 0.24,
     "uH": 0.5,
-    "uT": 1.3659,
+    "uT": 1.4354,
     "uSeed": 4,
     "uI": 0.25
    }
@@ -2759,7 +2776,7 @@
     ],
     "uW": 0.24,
     "uH": 0.5,
-    "uT": 1.3659,
+    "uT": 1.4354,
     "uSeed": 10,
     "uI": 0.25
    }
@@ -2818,6 +2835,25 @@
      0.87137,
      0.57758
     ]
+   }
+  },
+  {
+   "kind": "shaderFx",
+   "name": "amb_fill",
+   "pos": [
+    0,
+    0,
+    0
+   ],
+   "mat": "",
+   "tags": [
+    "night",
+    "uniforms:uMap,uNight"
+   ],
+   "additive": 0,
+   "uniforms": {
+    "uMap": "texture:8f79c821",
+    "uNight": 0
    }
   },
   {
@@ -3158,16 +3194,16 @@
    {
     "name": "skyjelly_mj_spawn_a_near",
     "pos": [
-     -10.054,
-     2.143,
+     -10.053,
+     2.152,
      58.041
     ]
    },
    {
     "name": "skyjelly_mj_spawn_a_far",
     "pos": [
-     -10.054,
-     2.143,
+     -10.053,
+     2.152,
      58.041
     ]
    },
@@ -3175,36 +3211,36 @@
     "name": "skyjelly_mj_spawn_b_near",
     "pos": [
      6.009,
-     4.578,
-     62.04
+     4.575,
+     62.039
     ]
    },
    {
     "name": "skyjelly_mj_spawn_b_far",
     "pos": [
      6.009,
-     4.578,
-     62.04
+     4.575,
+     62.039
     ]
    }
   ]
  },
  "camera": {
   "name": "cam_main",
-  "fov": 38.010603821461956,
+  "fov": 38.01083263551495,
   "aspect": 1.7778,
   "near": 0.1,
   "far": 2600,
   "pos": [
    -6,
-   9.466,
-   70.615
+   9.462,
+   70.617
   ],
   "quat": [
-   -0.19613,
-   0.00001,
+   -0.19571,
    0,
-   0.98058
+   0,
+   0.98066
   ]
  },
  "renderer": {
@@ -3538,17 +3574,17 @@
   ]
  },
  "stat": {
-  "meshes": 150,
+  "meshes": 151,
   "instancers": 57,
-  "instances": 3096,
-  "tris": 416851,
-  "materials": 97,
+  "instances": 3083,
+  "tris": 428675,
+  "materials": 98,
   "textures": 33,
   "blits": 2,
   "texDrop": 0,
   "lights": 6,
-  "bytes": 29581832,
-  "ms": 45932,
+  "bytes": 30816112,
+  "ms": 33950,
   "warn": {
    "THREE.GLTFExporter: Creating normalized normal attribute from the non-normalized one.": 8
   }
