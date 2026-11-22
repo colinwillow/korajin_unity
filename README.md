@@ -1,11 +1,19 @@
 # Korajin Bridge (Unity)
 
+## Cloud build (phone link, no PC)
+
+Every push to `main` runs `.github/workflows/webgl.yml`: GameCI builds the meadow for WebGL with Unity 6000.0.62f1
+(`Assets/Editor/BuildScript.cs`: URP on, Korajin > Build Meadow, uncompressed WebGL) and publishes it to GitHub Pages:
+**https://colinwillow.github.io/korajin_unity/**. Needs the secrets UNITY_LICENSE / UNITY_EMAIL / UNITY_PASSWORD and
+Settings > Pages > Source = GitHub Actions. The cloud build has no lighting bake (Beautiful Lighting is a PC step).
+
 One click from the web game's Sky Meadow snapshot to a lit URP scene in Unity, for a side-by-side look.
 
 ## Tonight: 6 steps
 
-1. On GitHub: **Code > Download ZIP**, then unzip it.
-2. Drag the **`KorajinBridge`** folder into the Unity **Project** window's `Assets` folder. Wait for the import bar
+1. On GitHub: **Code > Download ZIP**, then unzip it. (This repo is now a Unity 6 URP project, so you can also
+   open the unzipped folder itself in Unity Hub with 6000.0.62f1 and skip step 2.)
+2. Drag the **`Assets/KorajinBridge`** folder into the Unity **Project** window's `Assets` folder. Wait for the import bar
    (the .glb takes a minute). If you did this before, delete the old `Assets/KorajinBridge` first.
 3. **Korajin > Build Meadow** -- builds and saves `Assets/KorajinBridge/Generated/Meadow.unity`.
 4. **Korajin > Beautiful Lighting** -- quality URP settings for your PC, SSAO, soft 4-cascade shadows,
